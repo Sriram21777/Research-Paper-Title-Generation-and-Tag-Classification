@@ -12,3 +12,4 @@ A transformer based deep learning approach to title generation of research paper
 1. Arkadipta De - https://github.com/Arko98
 2. Venkatesh E - https://github.com/venkateshelangovan
 3. Priya Bhatia - https://github.com/priya6971
+4. Sri Ram Katta -
